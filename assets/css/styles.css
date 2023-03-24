@@ -908,6 +908,10 @@ home__education {
     padding: 1rem 1.5rem;
   }
 
+  .p_relative {
+    position: relative;
+    left: -7rem;
+  }
 
   .home__buttons {
     flex-direction: column;
@@ -961,6 +965,10 @@ home__education {
     margin: 0 auto;
   }
 
+  .p_relative {
+    position: relative;
+    left: -7rem;
+  }
 
   .about__info {
     grid-template-columns: repeat(3, 140px);
@@ -1026,6 +1034,11 @@ home__education {
   }
 
 
+  .p_relative {
+    position: relative;
+    left: -7rem;
+  }
+  
   .contact__container {
     grid-template-columns: repeat(2,max-content);
     justify-content: center;
